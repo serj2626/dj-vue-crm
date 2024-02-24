@@ -1,11 +1,15 @@
 import Navbar from './Navbar.vue'
-
+import Footer from './Footer.vue'
 
 
 const components = [
     {
         name: 'Navbar',
         component: Navbar
+    },
+    {
+        name: 'Footer',
+        component: Footer
     }
 ]
 
